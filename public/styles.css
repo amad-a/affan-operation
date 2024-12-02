@@ -11,7 +11,8 @@ button:hover {
 }
 
 h1 {
-    text-align: center;
+    margin-left: 15px;
+    font-style: italic;
 }
 
 .operation {
@@ -48,7 +49,7 @@ figcaption {
     }
 
     figcaption {
-        font-size: 25px;
+        font-size: 20px;
         width: 90vw;
     }
 }
